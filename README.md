@@ -10,6 +10,7 @@
     * Unsubscribe
     * Password recommendations
     * Remove data brokers
+    * Obscure un-deleteable accounts
 * Holler
     * Pre-flip announcements
     * Post flip redirects (1-3 months)
